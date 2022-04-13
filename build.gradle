@@ -5,7 +5,7 @@ plugins {
 }
 
 group = 'com.sergiomarquez'
-version = '0.0.1-DEMO'
+version = '0.0.1-BASE'
 sourceCompatibility = '17'
 
 repositories {
